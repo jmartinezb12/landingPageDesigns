@@ -1,0 +1,11 @@
+img{
+    z-index: -1;
+}
+
+#first{
+    height: 60%;
+}
+
+#second{
+    height: 40%;
+}
