@@ -19,3 +19,15 @@ section.second{
 section.second article.first{
     background: #F1C2B0;
 }
+
+section.second article.second{
+    background: #F9EB98;
+}
+
+section.second article.third{
+    background: #C0D9DD;
+}
+
+section.second article.fourth{
+    background: #6975E8;
+}
