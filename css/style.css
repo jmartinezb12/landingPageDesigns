@@ -1,0 +1,11 @@
+section.first{
+    width: 60%;
+    grid-template-columns: auto auto;
+    display: grid;
+}
+
+section.second{
+    width: 40%;
+    grid-template-columns: auto auto auto auto;
+    display: grid;
+}
