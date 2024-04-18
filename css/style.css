@@ -4,13 +4,18 @@
     display: grid;
 } */
 section.first{
-    width: 60%;
+    height: 60%;
     grid-template-columns: auto auto;
     display: grid;
 }
 
 section.second{
-    width: 40%;
+    height: 40%;
     grid-template-columns: auto auto auto auto;
     display: grid;
+
+}
+
+section.second article.first{
+    background: #F1C2B0;
 }
