@@ -37,6 +37,7 @@ body{
     line-height: 20px;
     padding-top:50px ;
     opacity: 68%;
+    letter-spacing: 3px;
 }
 
 .section_information button{
@@ -44,5 +45,8 @@ body{
     background: var(--color-yellow);
     font-family: "WorkSans-Medium"; 
     border-radius: 36px;
-    font-size: 25px;   
+    font-size: 25px;
+    width: 225px;
+    height: 80px;
+    margin-top: 50px;   
 }
