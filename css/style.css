@@ -4,6 +4,12 @@
     margin: 0;
     box-sizing: border-box;
 }
+.list_wallpaper{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
 
 #img1 {
     grid-column-start: 1;
