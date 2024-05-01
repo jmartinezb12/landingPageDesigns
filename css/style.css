@@ -18,7 +18,9 @@ body{
 }
 
 .section_information{
-
+    font-size: 24;
+    font-family: WorkSans-Light;
+    color: var(--color-white);
 }
 
 .section_information h1{
