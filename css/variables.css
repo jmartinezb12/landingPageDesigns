@@ -1,0 +1,7 @@
+:root{
+    --color-main-number: #b3b2b2;
+}
+@font-face {
+    font-family: "AvenirLTStd-Roman";
+    src: url("../storage/font/AvenirLTStd/AvenirLTStd-Roman.otf");
+}
