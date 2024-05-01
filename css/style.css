@@ -7,6 +7,15 @@
 }
 .main h1{
     text-align: left;
+    font-size: 40px;
+}
+
+.main__type__design{
+    margin-top: 20px;
+}
+
+.main .main__summary{
+    padding-right: 50px;
 }
 .main__number{
     font-size: 40px;
