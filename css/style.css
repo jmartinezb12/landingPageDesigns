@@ -19,8 +19,9 @@ body{
 
 .section_information{
     font-size: 24;
-    font-family: WorkSans-Light;
+    font-family: "WorkSans-Light";
     color: var(--color-white);
+    float: right;
 }
 
 .section_information h1{
@@ -36,6 +37,7 @@ body{
 }
 
 .section_information button{
+    border: none;
     background: var(--color-yellow);
     font-family: "WorkSans-Medium"; 
     border-radius: 36px;
