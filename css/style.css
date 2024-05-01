@@ -10,3 +10,7 @@
     grid-column-end: 2;
     margin-bottom: 25px;
 }
+#img2{
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
