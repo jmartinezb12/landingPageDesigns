@@ -4,3 +4,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+.main h1{
+    text-align: left;
+}
+.main article{
+    display: flex;
+    flex-direction: row;
+}
