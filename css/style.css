@@ -8,6 +8,6 @@ body{
     background: var(--color-red);
 }
 .main{
-    grid-template-columns: auto auto;
     margin: 0 auto;
+    grid-template-columns: auto auto;
 }
