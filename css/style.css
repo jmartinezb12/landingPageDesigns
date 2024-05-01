@@ -16,3 +16,13 @@ body{
     padding-top:70px ;
     padding-left:50px;
 }
+
+.section_information{
+
+}
+
+.section_information h1{
+    font-size: 75px;
+    font-family: WorkSans-Bold;
+    color: var(--color-white);
+}
