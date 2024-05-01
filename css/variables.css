@@ -1,5 +1,6 @@
 :root{
     --color-main-number: #b3b2b2;
+    --color-main-summary: #fefffe;
 }
 @font-face {
     font-family: "AvenirLTStd-Roman";
