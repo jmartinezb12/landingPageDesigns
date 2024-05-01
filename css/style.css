@@ -18,9 +18,6 @@ body{
 }
 
 .section_information{
-    font-size: 24;
-    font-family: "WorkSans-Light";
-    color: var(--color-white);
     float: right;
     width: 487px;
     height: 674px;
@@ -37,6 +34,9 @@ body{
     font-size: 24;
     font-family: WorkSans-Light;
     color: var(--color-white);
+    line-height: 20px;
+    padding-top:50px ;
+    opacity: 68%;
 }
 
 .section_information button{
