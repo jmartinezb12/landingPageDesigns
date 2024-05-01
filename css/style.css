@@ -18,3 +18,7 @@
     grid-column-start: 3;
     grid-column-end: 4;
 }
+#img4{
+    grid-column-start: 4;
+    grid-column-end: 5;
+}
