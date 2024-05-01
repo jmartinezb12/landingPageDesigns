@@ -36,5 +36,8 @@ body{
 }
 
 .section_information button{
-    
+    background: var(--color-yellow);
+    font-family: "WorkSans-Medium"; 
+    border-radius: 36px;
+    font-size: 25px;   
 }
