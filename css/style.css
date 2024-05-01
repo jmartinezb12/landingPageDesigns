@@ -1,4 +1,4 @@
-@import url(variable.css);
+@import url(variables.css);
 *{
     padding: 0;
     margin: 0;
@@ -7,6 +7,10 @@
 }
 .main h1{
     text-align: left;
+}
+.main__number{
+    font-size: 40px;
+    color: var(--color-main-number);
 }
 .main article{
     display: flex;
