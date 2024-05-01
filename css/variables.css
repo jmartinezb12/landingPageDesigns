@@ -1,0 +1,16 @@
+:root{
+    --color-red:#a52404;
+
+}
+@font-face {
+    font-family: "WorkSans-Bold";
+    src: url("../storage/font/WorkSans-Bold.ttf");
+}
+@font-face {
+    font-family: "WorkSans-Light";
+    src: url("../storage/font/WorkSans-Light.ttf");
+}
+@font-face {
+    font-family: "WorkSans-Medium";
+    src: url("../storage/font/WorkSans-Medium.ttf");
+}
