@@ -9,6 +9,7 @@ body{
 }
 .main{
     margin: 0 auto;
+    display: grid;
     grid-template-columns: auto auto;
 }
 .section__background{
