@@ -11,3 +11,8 @@ body{
     margin: 0 auto;
     grid-template-columns: auto auto;
 }
+.section__background{
+    grid-area: 1/1/1/2;
+    padding-top:70px ;
+    padding-left:50px;
+}
