@@ -4,3 +4,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+#img1 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    margin-bottom: 25px;
+}
