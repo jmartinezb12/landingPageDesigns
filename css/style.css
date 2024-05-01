@@ -28,3 +28,9 @@ body{
     font-family: "WorkSans-Bold";
     color: var(--color-white);
 }
+
+.section_information p{
+    font-size: 24;
+    font-family: WorkSans-Light;
+    color: var(--color-white);
+}
