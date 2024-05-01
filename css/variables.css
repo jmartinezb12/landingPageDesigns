@@ -1,6 +1,7 @@
 :root{
     --color-red:#a52404;
-
+    --color-white: #fefffe;
+    
 }
 @font-face {
     font-family: "WorkSans-Bold";

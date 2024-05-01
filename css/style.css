@@ -23,6 +23,6 @@ body{
 
 .section_information h1{
     font-size: 75px;
-    font-family: WorkSans-Bold;
+    font-family: "WorkSans-Bold";
     color: var(--color-white);
 }
