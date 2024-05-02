@@ -2,3 +2,7 @@
     --color-primary: rgb(255, 255, 255);
     --color-black: rgb(37, 37, 37);
 }
+@font-face {
+    font-family: "fontFirstHead";
+    src: url("../storage/font/fontFirstHead.ttf");
+}

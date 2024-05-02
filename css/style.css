@@ -6,6 +6,16 @@
 }
 .main_section_header h1{
     font-size: 64px;
+    text-align: center;
+    /* color: var(--color-primary); */ 
+    font-family: "fontFirstHead";
+}
+
+.main_section_header p{
+    font-size: 26px;
+    text-align: center;
+    /* color: var(--color-primary); */
+    font-family: "fontFirstHead";
 }
 .list_wallpaper{
     display: grid;
