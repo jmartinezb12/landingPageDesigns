@@ -4,6 +4,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+.main{
+    grid-template-rows: auto auto;
+    text-align: center;
+}
 .main_section_header h1{
     font-size: 64px;
     text-align: center;
@@ -16,6 +20,15 @@
     text-align: center;
     /* color: var(--color-primary); */
     font-family: "fontFirstHead";
+}
+.main_section_header button{
+    background: var(--color-black);
+    border: none;
+    color: var(--color-primary);
+    height: 54px;
+    width: 158px;
+    border-radius: 16px;
+    font-size: 18px;
 }
 .list_wallpaper{
     display: grid;
